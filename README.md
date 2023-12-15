@@ -18,7 +18,7 @@ Schedule it to run every day at 1pm on macOS:
 bun make-launchd.ts
 ```
 
-It saves states into a .sqlite file in the current directory.
+It saves state into a .sqlite file in the current directory.
 
 ### Configuration
 
