@@ -1,7 +1,8 @@
 # Based on https://raw.githubusercontent.com/github/gitignore/main/Node.gitignore
 .env
 *.plist
-
+*.log
+*.sqlite
 logs
 _.log
 npm-debug.log_
@@ -10,7 +11,7 @@ yarn-error.log*
 lerna-debug.log*
 .pnpm-debug.log*
 
-# Caches 
+# Caches
 
 .cache
 
